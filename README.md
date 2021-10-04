@@ -13,3 +13,6 @@ This will pause / play the game. Doing this will also disable the randomisations
 
 ### Cursor Movement Buttons (Pin 7 and 8)
 When the game is paused pressing this will change the location of the cursor.
+
+### Speed Control Potentiometer (Pin 0)
+The reading from this will be the delay at the end of each generation. This is done to slow down the generation speed and make it viewable.
