@@ -1,5 +1,5 @@
 # Arduino-GameOfLife
-Arduino Conway's Game of Life with an Arduino UNO, MAX7219 and an 8x8 Dot Matrix Display. Video - https://youtu.be/37UHGlbfa3M
+Arduino Conway's Game of Life with an Arduino UNO, MAX7219 and an 8x8 Dot Matrix Display. Video - https://youtu.be/qY5oLLSfSIA
 
 # Controls
 This program will run Conway's Game of Life on an Arudino. It will start up with a randomised board and run the simulation. After 150 generations the board will be rerandomised. 
